@@ -1,0 +1,65 @@
+/* A very simple CSS file for styling my simple website. */
+   
+@import url(https://fonts.googleapis.com/css?family=JetBrains+Mono);
+
+html {
+	padding: 25px;
+  	margin: auto;
+}
+
+body {
+	background-image: linear-gradient( rgba(39, 42, 52, 0.75), rgba(39, 42, 52, 0.75) ), url(img/bg.jpg);
+  	background-position: center center;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+  	color: #ffffff;
+  	font-family: JetBrains Mono;
+  	font-size: 15px;
+  	align-items: center;
+  	justify-content: center;
+  	text-align: left;
+}
+
+pre {
+  	font-size: calc(7px + .5vw);
+  	align-items: center;
+  	justify-content: center;
+  	text-align: center;
+  	color: yellow;
+}
+
+/* Link */
+a {
+	color: yellow;
+  	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  	color: red;
+}
+
+
+/* CLASSES */
+
+.center {
+  	text-align: center;
+}
+
+.amogus {
+  	background-image: linear-gradient( rgba(39, 42, 52, 0.75), rgba(39, 42, 52, 0.75) ), url(https://i.imgflip.com/5364y4.jpg);
+}
+
+.bigphoto {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	max-width: 200px;
+  	height: auto;
+}
+
+.sign {
+  	font-size: 12px;
+  	text-align: center;
+}

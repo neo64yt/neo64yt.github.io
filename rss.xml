@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Neo64YT's Blog Posts</title>
+<description>Neo64YT's latest posts.</description>
+<language>en-us</language>
+<link>https://neo64yt.github.io/rss.xml</link>
+<atom:link href="https://neo64yt.github.io/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+</channel>
+</rss>
+

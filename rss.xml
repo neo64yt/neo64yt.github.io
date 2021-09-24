@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
-<channel>
-<title>Neo64YT's Blog Posts</title>
-<description>Neo64YT's latest posts.</description>
-<language>en-us</language>
-<link>https://neo64yt.github.io/rss.xml</link>
-<atom:link href="https://neo64yt.github.io/rss.xml" rel="self" type="application/rss+xml" />
+	<channel>
+		<title>Neo64YT's Blog Posts</title>
+		<description>Neo64YT's latest posts.</description>
+		<language>en-us</language>
+		<link>https://neo64yt.github.io/rss.xml</link>
+		<atom:link href="https://neo64yt.github.io/favicon.ico" rel="self" type="application/rss+xml"/>
+		<image>
+			<title>Neo64YT's Blog Posts</title>
+			<url>https://neo64yt.github.io/img/neo64-new.jpg</url>
+			<link>https://neo64yt.github.io/rss.xml</link>
+		</image>
 
-<!-- LB -->
+		<!-- LB -->
 
-</channel>
+<item>
+<title>My First Post</title>
+<guid>https://neo64yt.github.io/2021.html#my-first-post</guid>
+<pubDate>Fri, 24 Sep 2021 11:11:31 +0800</pubDate>
+<description><![CDATA[
+<p>Thanks for checking out my blog! This is my first post to test out Luke Smith's lb, which powers this blog. Also, don't forget to subscribe this blog's <a href="https://neo64yt.github.io/rss.xml">RSS feed</a>!</p>
+<h3 class="center">Thanks for checking out my blog!</h3>
+]]></description>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</channel>
 </rss>
 

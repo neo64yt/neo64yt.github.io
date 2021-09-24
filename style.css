@@ -16,13 +16,11 @@ body {
   	color: #ffffff;
   	font-family: JetBrains Mono;
   	font-size: 15px;
-  	align-items: center;
-  	justify-content: center;
   	text-align: left;
 }
 
 pre {
-  	font-size: calc(7px + .5vw);
+  	font-size: calc(17px + .5vw);
   	align-items: center;
   	justify-content: center;
   	text-align: center;
@@ -36,16 +34,12 @@ a {
 }
 
 /* mouse over link */
-a:hover {
-  	color: red;
-}
+a:hover { color: red; }
 
 
 /* CLASSES */
 
-.center {
-  	text-align: center;
-}
+.center { text-align: center; }
 
 .amogus {
   	background-image: linear-gradient( rgba(39, 42, 52, 0.75), rgba(39, 42, 52, 0.75) ), url(https://i.imgflip.com/5364y4.jpg);
@@ -63,3 +57,4 @@ a:hover {
   	font-size: 12px;
   	text-align: center;
 }
+

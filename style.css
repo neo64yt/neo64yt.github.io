@@ -41,6 +41,12 @@ a:hover { color: red; }
 
 .center { text-align: center; }
 
+.post_title {
+	text-align: center;
+	font-size: 40px;
+	color: yellow;
+}
+
 .amogus {
   	background-image: linear-gradient( rgba(39, 42, 52, 0.75), rgba(39, 42, 52, 0.75) ), url(https://i.imgflip.com/5364y4.jpg);
 }
@@ -51,6 +57,19 @@ a:hover { color: red; }
   	margin-right: auto;
   	max-width: 200px;
   	height: auto;
+}
+
+.logo {
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 24px;
+	height: auto;
+}
+
+
+.ontheweb {
+	text-align: center;
 }
 
 .sign {

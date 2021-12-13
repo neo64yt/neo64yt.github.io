@@ -16,6 +16,16 @@
 		<!-- LB -->
 
 <item>
+<title>Moving to Wayland!</title>
+<guid>https://neo64yt.github.io/blog/moving-to-wayland.html</guid>
+<pubDate>Mon, 13 Dec 2021 08:42:57 +0800</pubDate>
+<description><![CDATA[
+As I'm experiencing some problems with Xorg, I will be switching to Wayland, because why not? I think it's worth to give it a try because many people are already using Wayland as their daily driver. I will make a video and a blog post about my experiences of using it and my thoughts on it. I may even use Wayland as my daily driver if I'm really liking it. Hope it will be a great experience :)
+]]></description>
+</item>
+
+
+<item>
 <title>More Pages will be Added</title>
 <guid>https://neo64yt.github.io/blog/more-pages-will-be-added.html</guid>
 <pubDate>Tue, 28 Sep 2021 15:54:29 +0800</pubDate>

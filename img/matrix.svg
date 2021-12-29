@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 256 256"
+   id="svg12"
+   sodipodi:docname="Matrix_icon.svg"
+   width="256"
+   height="256"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.70996094"
+     inkscape:cx="154.23384"
+     inkscape:cy="161.98074"
+     inkscape:window-width="960"
+     inkscape:window-height="1061"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g856" />
+  <title
+     id="title2">Matrix (protocol) logo</title>
+  <g
+     transform="matrix(3.2536496,0,0,3.2536496,-31.68666,-35.97677)"
+     fill="#040404"
+     id="g10">
+    <g
+       id="g856"
+       transform="matrix(1.4513623,0,0,1.4513623,-15.600214,-11.927567)">
+      <path
+         d="M 65.720639,63.873364 V 21.967996 h -3.54163 v -1.00573 h 4.916235 v 43.96629 h -4.916235 v -1.00573 z"
+         id="path4"
+         style="stroke:#ffffff;stroke-width:2.911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
+      <path
+         d="m 35.2044,33.941423 v 2.490462 h 0.07116 c 0.622615,-0.912091 1.444144,-1.665699 2.409602,-2.215541 0.937966,-0.52235 2.021478,-0.784333 3.218194,-0.784333 1.164372,0 2.231712,0.226405 3.18585,0.679216 0.962224,0.451194 1.698042,1.246848 2.199369,2.393431 0.546608,-0.808592 1.287277,-1.521769 2.231712,-2.134681 0.937966,-0.619381 2.053822,-0.928263 3.331397,-0.928263 0.973544,0 1.875932,0.119671 2.700695,0.35578 0.831232,0.239343 1.542792,0.619381 2.134681,1.143348 0.591889,0.52235 1.05602,1.206418 1.38916,2.053823 0.331523,0.844169 0.498092,1.85976 0.498092,3.056475 V 52.390245 H 53.512526 V 41.943244 c 0,-0.619381 -0.02426,-1.201567 -0.07116,-1.746558 -0.0338,-0.496475 -0.16657,-0.981629 -0.391358,-1.426355 -0.215085,-0.405913 -0.543373,-0.740669 -0.944435,-0.963841 -0.415616,-0.236108 -0.980012,-0.35578 -1.698042,-0.35578 -0.71156,0 -1.287277,0.137461 -1.730385,0.409147 -0.439874,0.274921 -0.784334,0.630702 -1.03338,1.070575 -0.257132,0.464132 -0.426936,0.973544 -0.498092,1.499129 -0.08409,0.561162 -0.126141,1.127176 -0.126141,1.698042 v 10.26911 H 41.957755 V 42.046744 c 0,-0.546608 -0.01132,-1.088364 -0.03396,-1.617183 -0.01844,-0.507796 -0.121127,-1.007505 -0.304031,-1.48134 -0.174656,-0.447959 -0.485155,-0.827997 -0.88945,-1.088364 -0.417234,-0.271686 -1.028529,-0.409147 -1.843589,-0.409147 -0.320202,0.01342 -0.63717,0.06792 -0.944435,0.161718 -0.417233,0.120481 -0.805357,0.326671 -1.140114,0.604827 -0.368717,0.297561 -0.682451,0.726115 -0.944435,1.284043 -0.260366,0.559545 -0.391358,1.290512 -0.391358,2.199368 v 10.70575 H 30.404601 V 33.970532 Z"
+         id="path6"
+         style="stroke-width:1.61718;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <path
+         d="M 23.408668,22.011962 V 63.91733 h 3.541631 v 1.005729 H 22.034063 V 20.956771 h 4.900064 V 21.9625 Z"
+         id="path8"
+         style="stroke:#ffffff;stroke-width:2.911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
+    </g>
+  </g>
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Matrix (protocol) logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

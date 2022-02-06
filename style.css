@@ -35,10 +35,18 @@ a {
 }
 
 /* mouse over link */
-a:hover { color: red; }
+a:hover { 
+	color: red; 
+	text-decoration: underline;
+}
 
+/* IDs */
+#license { cursor: help; }
 
-/* CLASSES */
+/* Classes */
+.amogus {
+  	background-image: linear-gradient( rgba(39, 42, 52, 0.75), rgba(39, 42, 52, 0.75) ), url(https://i.imgflip.com/5364y4.jpg);
+}
 
 .center {
 	text-align: center; 
@@ -50,10 +58,6 @@ a:hover { color: red; }
 	text-align: center;
 	font-size: 40px;
 	color: yellow;
-}
-
-.amogus {
-  	background-image: linear-gradient( rgba(39, 42, 52, 0.75), rgba(39, 42, 52, 0.75) ), url(https://i.imgflip.com/5364y4.jpg);
 }
 
 .bigphoto {

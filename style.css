@@ -20,14 +20,6 @@ body {
 	justify-content: center;
 }
 
-pre {
-  	font-size: calc(17px + .5vw);
-  	align-items: center;
-  	justify-content: center;
-  	text-align: center;
-  	color: yellow;
-}
-
 /* Link */
 a {
 	color: yellow;
@@ -44,8 +36,16 @@ a:hover {
 #license { cursor: help; }
 
 /* Classes */
-.amogus {
+body.amogus {
   	background-image: linear-gradient( rgba(39, 42, 52, 0.75), rgba(39, 42, 52, 0.75) ), url(https://i.imgflip.com/5364y4.jpg);
+}
+
+pre.title {
+  	font-size: calc(17px + .5vw);
+  	align-items: center;
+  	justify-content: center;
+  	text-align: center;
+  	color: yellow;
 }
 
 .center {

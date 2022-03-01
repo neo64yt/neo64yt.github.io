@@ -42,6 +42,74 @@
 
 
 <item>
+<title>Moving to Codeberg</title>
+<guid>https://neo64yt.github.io/blog/moving-to-codeberg.html</guid>
+<pubDate>Sun, 06 Feb 2022 12:35:12 +0800</pubDate>
+<description><![CDATA[
+<p>I'm moving all of my repositories, including this website to <a href="https://codeberg.org">Codeberg</a>. This doesn't mean I'll completely ditch Github and Gitlab, though. The repositories will still be available on those Git hosting services as mirrors. Contributions to my projects on both sites will be accepted, but <strong>PLEASE</strong> contribute on Codeberg if you can because I prefer using it. I'll write a follow-up post about why I'm migrating to Codeberg once the migration process is finished. Also, keep an eye out for <a href="https://codeberg.org/neo64yt">my Codeberg profile</a>!</p>
+]]></description>
+</item>
+
+
+<item>
+<title>Moving to Wayland!</title>
+<guid>https://neo64yt.github.io/blog/moving-to-wayland.html</guid>
+<pubDate>Mon, 13 Dec 2021 08:42:57 +0800</pubDate>
+<description><![CDATA[
+<p>As I'm experiencing some problems with Xorg, I will be switching to Wayland, because why not? I think it's worth to give it a try because many people are already using Wayland as their daily driver. I will make a video and a blog post about my experiences of using it and my thoughts on it. I may even use Wayland as my daily driver if I'm really liking it. Hope it will be a great experience :)</p>
+]]></description>
+</item>
+
+
+<item>
+<title>My First Post</title>
+<guid>https://neo64yt.github.io/blog/my-first-post.html</guid>
+<pubDate>Fri, 24 Sep 2021 11:11:31 +0800</pubDate>
+<description><![CDATA[
+<p>Thanks for checking out my blog! This is my first post to test out Luke Smith's lb, which powers this blog. Also, don't forget to subscribe this blog's <a href="https://neo64yt.github.io/rss.xml">RSS feed</a>!</p>
+<h3 class="center">Thanks for checking out my blog!</h3>
+]]></description>
+</item>
+
+
+<item>
+<title>More Pages will be Added</title>
+<guid>https://neo64yt.github.io/blog/more-pages-will-be-added.html</guid>
+<pubDate>Tue, 28 Sep 2021 15:54:29 +0800</pubDate>
+<description><![CDATA[
+<p>I'm a little bit busy, so I don't have much time to give attention to this site. But hey, I made a little progress by adding <a href="../ontheweb.html">this page</a>. More pages will be added soon on this site, so please be patient. If I have plenty of time, I will start focusing on the development of this website (...and maybe the YAGAI project, I will write about it in the next time). Anyway, hope you enjoy visiting my website :)</p>
+<small>Lol what the heck did I wrote in this post</small>
+]]></description>
+</item>
+
+
+<item>
+<title>An Interesting Title</title>
+<guid>https://neo64yt.github.io/blog/an-interesting-title.html</guid>
+<pubDate>Thu, 17 Feb 2022 16:34:34 +0800</pubDate>
+<description><![CDATA[
+<pre>
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣶⣿⣿⣿⣿⣿⣿⣶⣆⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣸⣿⣿⠉⠉⠉⠄⠉⢹⣿⣦⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢿⣿⣿⣁⠄⠄⠤⠤⡀⠻⣿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⣿⣿⣿⡗⠖⡶⢾⣶⠊⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢻⣿⣿⣅⣈⠂⠐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⢿⣾⣇⣂⣠⠄⠄⠄⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢘⣿⣗⠒⠄⢨⠶⢁⣄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠨⣿⣿⡿⠋⠁⣴⣿⣿⣷⣦⣄⡀⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣠⣄⣶⣎⢱⢄⢀⣾⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⢠⣾⣿⣿⡞⢝⡟⠃⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣿⣿⣇⠄⠄⠄
+⠄⠄⠄⠄⠆⢄⠄⢛⡫⠝⢿⡥⠟⡃⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣭⣻⣿⣿⡀⠄⠄
+⠄⠄⠄⣴⣆⠄⢋⠄⠐⣡⣿⣆⣴⣼⣿⣿⣿⣿⣿⣿⣿⣿⠏⢈⣿⣿⣿⣿⣿⣿⣷⡄⠄
+⠄⠄⣼⣿⣷⠄⠉⠒⣪⣹⣟⣹⣿⣿⣿⣿⣿⣟⣿⣿⣿⡇⢀⣸⣿⣿⣿⢟⣽⣿⣿⣇⠄
+</pre>
+
+<p><strong>Neo64 obviously runs out of blog post ideas</strong></p>
+]]></description>
+</item>
+
+
+<item>
 <title>An Interesting Title</title>
 <guid>https://neo64yt.github.io/blog/an-interesting-title.html</guid>
 <pubDate>Thu, 17 Feb 2022 16:34:34 +0800</pubDate>

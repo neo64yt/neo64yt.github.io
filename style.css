@@ -74,11 +74,6 @@ pre.title {
 	height: auto;
 }
 
-.sign {
-  	font-size: 12px;
-  	text-align: center;
-}
-
 .flex {
     display: flex;
     align-items: center;
@@ -88,4 +83,9 @@ pre.title {
 .asciicast {
     width: 75%;
     height: 75%;
+}
+
+.sign {
+  	font-size: 12px;
+  	text-align: center;
 }

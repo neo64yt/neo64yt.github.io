@@ -79,3 +79,13 @@ pre.title {
   	text-align: center;
 }
 
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.asciicast {
+    width: 75%;
+    height: 75%;
+}

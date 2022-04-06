@@ -1,10 +1,13 @@
 /* A very simple CSS file for styling my simple website. */
    
-@import url(https://fonts.googleapis.com/css?family=JetBrains+Mono);
-
 html {
 	padding: 25px;
   	margin: auto;
+}
+
+@font-face {
+	font-family: "JetBrains Mono";
+	src: url(https://fonts.googleapis.com/css?family=JetBrains+Mono);
 }
 
 body {
